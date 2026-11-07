@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c# softclub\bin\Debug\net10.0\c# softclub.exe
+C:\Users\user\Desktop\c# softclub\bin\Debug\net10.0\c# softclub.deps.json
+C:\Users\user\Desktop\c# softclub\bin\Debug\net10.0\c# softclub.runtimeconfig.json
+C:\Users\user\Desktop\c# softclub\bin\Debug\net10.0\c# softclub.dll
+C:\Users\user\Desktop\c# softclub\bin\Debug\net10.0\c# softclub.pdb
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.AssemblyInfo.cs
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.dll
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\refint\c# softclub.dll
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.pdb
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\c# softclub.genruntimeconfig.cache
+C:\Users\user\Desktop\c# softclub\obj\Debug\net10.0\ref\c# softclub.dll
